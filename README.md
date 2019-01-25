@@ -1,2 +1,0 @@
-# insert-sort
-insertsort
